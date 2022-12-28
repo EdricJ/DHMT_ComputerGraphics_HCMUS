@@ -1,0 +1,21 @@
+Tuần 5
+3/ Tìm giải pháp giảm bớt công thức ở slide 20 
+
+Tuần 6
+4/ Lập phương trình với u = 0.1 
+8/ Đến đó tìm công thức cuối cùng để toàn phép cộng 
+9/ Rơi vào lưới tọa độ nguyên thì phải làm thế nào? 
+
+Tuần 7
+4/ Để đạo hàm bậc 2 liên tục theo thông số tại 2 điểm đầu mút phải thỏa phương trình gì 
+5/ Tại sao tính bất biển affine lại giúp biến đổi đường cong? 
+6/ Giải thích VT = VP thì nói lên cái gì 
+10/ Chứng minh p’(0) = n(p1 - p2), p’(1) = n(pn - pn-1)
+16/ Khi nào giải thuật Procedure socendary_file dừng?  
+
+Tuần 8
+4/ Ước thử với phương pháp, xem nó chạy còn bị rắc rối gì không. Có cách nào giải quyết không 
+8/ Thử băm dữ liệu ra 
+
+tuần 11
+7/ Vẽ quả cầu, viết giải thuật Sphere, nối các cạnh, lưu cấu trúc dữ liệu, tạo và phát sinh các mặt 

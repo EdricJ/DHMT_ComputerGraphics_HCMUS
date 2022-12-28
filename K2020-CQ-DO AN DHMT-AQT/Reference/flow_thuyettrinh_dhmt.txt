@@ -1,0 +1,17 @@
+Motivation
+Ý nghĩa khoa học
+	-Tạo lập mô hình, nhận biết và phân tích đối tượng trong thế giới vật chất​
+	-Cho biết được cụ thể thông số kích thước, vị trí tọa độ của đối tượng đó trong thế giới thực​
+	-Tái tạo đối tượng ở thế giới thực dưới dạng dữ liệu kỹ thuật số và toán học​
+Ý nghĩa ứng dụng
+	-Mô phỏng thiết kế kiến trúc nội thất trong các công trình
+	-Tạo lập mô hình trong các công trình khảo cổ học, y khoa​
+	-Thông tin 3D trong robot, giúp chúng tự do điều hướng và thức hiện nhiệm vụ​
+	-Duy trì di sản văn hóa, có vai trò như một gói dữ liệu kỹ thuật số, bảo tồn các di tích vật chất​
+Bối cảnh hiện nay
+	-Tái tạo 3D là công nghệ cốt lõi trong nhiều lĩnh vực như đồ họa máy tính, thị giác máy tính, thiết 
+	kế đồ họa, ảnh y khoa.​
+	-Sự phát triển mạnh mẽ của tái tạo 3D giúp quan sát bề mặt trái đất, mô phỏng lại các hành tinh trong 
+	không gian. Nghiên cứu về quy hoach đô thị hay ở các đối tượng  môi trường trong thế giới thực mà 
+	chúng ta không đủ điều kiện để tiếp cận​
+	-Tăng cường thực tế ảo, mô phỏng lại các đối tượng thế giới thực vào trong máy tính​

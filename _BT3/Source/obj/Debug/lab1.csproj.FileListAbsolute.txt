@@ -1,0 +1,16 @@
+C:\Users\thong\Downloads\test1\test1\bin\Debug\test1.exe.config
+C:\Users\thong\Downloads\test1\test1\bin\Debug\test1.exe
+C:\Users\thong\Downloads\test1\test1\bin\Debug\test1.pdb
+C:\Users\thong\Downloads\test1\test1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\thong\Downloads\test1\test1\bin\Debug\SharpGL.dll
+C:\Users\thong\Downloads\test1\test1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\thong\Downloads\test1\test1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\thong\Downloads\test1\test1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\thong\Downloads\test1\test1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\thong\Downloads\test1\test1\obj\Debug\lab1.Form1.resources
+C:\Users\thong\Downloads\test1\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\thong\Downloads\test1\test1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\thong\Downloads\test1\test1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\thong\Downloads\test1\test1\obj\Debug\lab1.csproj.CopyComplete
+C:\Users\thong\Downloads\test1\test1\obj\Debug\test1.exe
+C:\Users\thong\Downloads\test1\test1\obj\Debug\test1.pdb
