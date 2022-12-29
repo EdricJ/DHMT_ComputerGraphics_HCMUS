@@ -1,4 +1,4 @@
-# DHMT_HCMUS
+# DHMT_ComputerGraphics_HCMUS
 This is a subject of computer vision in computer science
 
 Links:
