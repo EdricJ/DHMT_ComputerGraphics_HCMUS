@@ -64,8 +64,6 @@ Links:
 
 * https://github.com/KimKhanh14/SimpleDrawingApplication
 
-* https://studenthcmusedu-my.sharepoint.com/:v:/g/personal/20120201_student_hcmus_edu_vn/EU_z1L4Cn-ZNvOIj9GtA_p0BwmKGaTqqlaCF9LvKkaLfYA?e=rTgdJU
-
 * https://github.com/namht-webdev/DHMT_HCMUS
 
 
