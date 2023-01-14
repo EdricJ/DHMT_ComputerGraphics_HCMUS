@@ -68,6 +68,12 @@ Links:
 
 * https://drive.google.com/file/d/1QjuIfPvIJvYSs2T7OzekQGxFreBnWG4h/view
 
+* https://www.youtube.com/watch?v=a8f5MlExVfc
+
+* https://android.googlesource.com/platform/development/+/master/samples/OpenGL?autodive=0%2F%2F%2F&fbclid=IwAR0LCH6PTyPDswxIhfNy5v3dcSvrT0-uiUBD7AKLGhWjMb34ohIMuUDzagI
+
+* https://github.com/nguyenquyem99dt?fbclid=IwAR1ASBlru-0pw5BTfYRwr2PuyE-ksuh3MCXtgGxBwBAn3Xvh18TZtQX8Nw8
+
 
 Reference link for the final exam
 * (`error`)https://cdn.fbsbx.com/v/t59.2708-21/315955265_685357183301478_3319738801296846454_n.pdf/Doc.pdf?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=jjyZPtgTbhcAX8jVxYH&_nc_ht=cdn.fbsbx.com&oh=03_AdTg-haMBnuTK7C0bQ_LvWcBg88Ep6-8vn2ZcjWGbRC3FQ&oe=63AD4A36&dl=1
