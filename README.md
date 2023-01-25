@@ -74,6 +74,18 @@ Links:
 
 * https://github.com/nguyenquyem99dt?fbclid=IwAR1ASBlru-0pw5BTfYRwr2PuyE-ksuh3MCXtgGxBwBAn3Xvh18TZtQX8Nw8
 
+* https://github.com/PointCloudLibrary
+
+* https://github.com/niconielsen32/ComputerVision
+
+* http://tailieuso.udn.vn/bitstream/TTHL_125/8601/1/LeThiThuNga.TT.pdf
+
+* https://github.com/CamilaR20/3DReconstruction
+
+* https://www.mediafire.com/folder/wfbjrmp831r1y/K2020-CQ-DO_AN_DHMT-AQT
+
+* https://drive.google.com/drive/folders/1QpCM_LPGuTl9PEPkHKQP3Bph0RfVTAID
+
 
 Reference link for the final exam
 * (`error`)https://cdn.fbsbx.com/v/t59.2708-21/315955265_685357183301478_3319738801296846454_n.pdf/Doc.pdf?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=jjyZPtgTbhcAX8jVxYH&_nc_ht=cdn.fbsbx.com&oh=03_AdTg-haMBnuTK7C0bQ_LvWcBg88Ep6-8vn2ZcjWGbRC3FQ&oe=63AD4A36&dl=1
